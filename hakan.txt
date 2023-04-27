@@ -1,2 +1,3 @@
 yeni kodlar yazıldı
 remote da kodlar ekliyorum
+burada çakışma olacak
