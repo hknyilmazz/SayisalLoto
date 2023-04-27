@@ -1,3 +1,6 @@
 yeni kodlar yazıldı
 remote da kodlar ekliyorum
+
 bazı kodlar
+
+burada çakışma olacak
