@@ -17,6 +17,9 @@ public class Randomclassi {
         System.out.println("sayi1 = " + sayi1);
 
 
+        System.out.println();
+
+
 
     }
 
